@@ -1,1 +1,1 @@
-# Simple-Web-Scraper
+# Web-Scraper
